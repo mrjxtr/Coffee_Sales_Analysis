@@ -30,15 +30,9 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 - I used Python Jupyter Notebooks to process the data to ensure it was complete, valid, and reliable. (cleaning, manipulating, and wrangling)
 
-- Created Sales KPI.
+- Created Sales KPI, a line chart showing the weekly sales trend, a sales-by-employee bar chart to see top employee performers and a sales-by-coffee bar chart to see which coffee has the most sales.
 
-- I created a line chart showing the weekly sales trend.
-
-- I created a sales-by-employee bar chart to see top employee performers.
-
-- I created a sales-by-coffee bar chart to see which coffee has the most sales.
-
-- I created filters to filter specific data in the line charts and the bar charts when clicked
+- Made the dashboard filter specific data in the line charts and the bar charts when *clicked* [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SEMI-ANNUALSALESDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
