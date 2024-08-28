@@ -26,11 +26,11 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 
 
-- I gathered and extracted data from an Excel workbook using Python Jupyter Notebooks and processed the data to ensure it was complete, valid, and reliable. (cleaning, manipulating, and wrangling)
+- I gathered and extracted data from an **Excel workbook** using **Python Jupyter Notebooks** and processed the data to ensure it was complete, valid, and reliable. (cleaning, manipulating, and wrangling) [see code](https://github.com/mrjxtr/Semi-Annual-Coffee-Sales-Analysis/blob/12d7dbcadcfac8bfce73a245ef6caad503c7ec47/updated_coffee_sales_clean.ipynb)
 
-- Created Sales KPI, a line chart showing the weekly sales trend, a sales-by-employee bar chart to see top employee performers and a sales-by-coffee bar chart to see which coffee has the most sales.
+- Created **Sales KPI**, a **line chart** showing the **weekly sales trend**, a **sales-by-employee bar chart** to see **top employee performers**, and a **sales-by-coffee bar chart** to see **which coffee has the most sales**. [see image](https://github.com/user-attachments/assets/60c9faf9-d313-4edf-b4b9-ea483c95e097)
 
-- Made the dashboard filter specific data in the line charts and the bar charts when *clicked*. [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SEMI-ANNUALSALESDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Made the dashboard **dynamic** to filter specific data in the line charts and the bar charts when *clicked*. [see dashboard](https://public.tableau.com/views/Coffee_Sales_Updated/SEMI-ANNUALSALESDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -44,11 +44,11 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 
 
-- The overall upward trend in sales suggests that the business is growing, but the decline towards the end of June could be a concern. Analyzing factors such as seasonality or marketing efforts during this period could provide more context.
+- The overall **upward trend** in sales suggests that the **business is growing**, but the **decline towards the end of June** could be a concern. Analyzing factors such as seasonality or marketing efforts during this period could provide more context.
 
-- Rebecca Edwards and Diana Collins are key contributors to sales success. It may be beneficial to examine their strategies and consider ways to replicate their success across the team.
+- **Rebecca Edwards** and Diana Collins are key contributors to sales success. It may be beneficial to examine their strategies and consider ways to replicate their success across the team.
 
-- The popularity of Latte and Mocha could indicate customer preference, and there might be an opportunity to further promote these products, perhaps through bundling or targeted promotions.
+- The **popularity of Latte and Mocha** could indicate customer preference, and there might be an opportunity to further promote these products, perhaps through bundling or targeted promotions.
 
 
 
@@ -58,11 +58,11 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 
 
-- Total Cups Sold: 2,131 cups
+- **Total Cups Sold**: 2,131 cups
 
-- Total Sales Revenue: $9,453.50
+- **Total Sales Revenue**: $9,453.50
 
-- Total Number of Customers: 200
+- **Total Number of Customers**: 200
 
 
 
@@ -86,11 +86,11 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 
 
-- Rebecca Edwards leads with sales of $2,686.25, surpassing the average.
+- **Rebecca Edwards** leads with sales of $2,686.25, surpassing the average.
 
-- Diana Collins follows closely with $2,499.50.
+- **Diana Collins** follows closely with $2,499.50.
 
-- Kevin Swanson generated $2,347.75, while Evelyn Grant trailed with $1,920.00.
+- **Kevin Swanson** generated $2,347.75, while Evelyn Grant trailed with $1,920.00.
 
 - The disparity among employees suggests that sales techniques or customer engagement might vary, with Rebecca and Diana outperforming the others.
 
@@ -102,10 +102,10 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 
 
-- Latte dominates sales, accounting for $4,406.00 with 2,203 cups sold.
+- **Latte** dominates sales, accounting for $4,406.00 with 2,203 cups sold.
 
-- Mocha comes in second, generating $2,568.00 from 1,284 cups.
+- **Mocha** comes in second, generating $2,568.00 from 1,284 cups.
 
-- Cappuccino sales amount to $1,858.00 with 929 cups sold.
+- **Cappuccino** sales amount to $1,858.00 with 929 cups sold.
 
 - Americano and Espresso lag behind with $412.50 and $209.00 respectively, indicating lower customer preference or possibly a pricing strategy that influences demand.
