@@ -26,19 +26,19 @@ Link: [View in Tableau](https://public.tableau.com/views/Coffee_Sales_Updated/SE
 
 
 
-- Gathered and extracted data from an Excel workbook.
+- I gathered and extracted data from an Excel workbook.
 
-- Processed the data by cleaning, manipulating, and wrangling to ensure data is complete, valid, and reliable.
+- I used Python Jupyter Notebooks to process the data to ensure it was complete, valid, and reliable. (cleaning, manipulating, and wrangling)
 
 - Created Sales KPI.
 
-- Created a line chart showing the trend for Sales by Week.
+- I created a line chart showing the weekly sales trend.
 
-- Created a sales-by-employee bar chart to see top employee performers.
+- I created a sales-by-employee bar chart to see top employee performers.
 
-- Created a sales-by-coffee bar chart to see which coffee has the most sales.
+- I created a sales-by-coffee bar chart to see which coffee has the most sales.
 
-- Created filters to filter specific data in the line charts and the bar charts when clicked
+- I created filters to filter specific data in the line charts and the bar charts when clicked
 
 
 
